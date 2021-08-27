@@ -1,0 +1,9 @@
+Answer
+
+1. List Interface is best suited since we have to Choose a random employee by picking a number between 0 and size()-1.
+
+2. Set should be used since Collections that implement this interface don't allow the same element to be entered more than once.
+
+3. Map is best-suited , where the keys are first names, and each value is a count of the number of employees with that first name.
+
+4. For this situation Queue should be used to to add employees to the waiting list, and remove them using add() and remove() method. 
